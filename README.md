@@ -25,6 +25,6 @@ Atualmente, estou focado em procura uma oportunidade profissioinal. Estou sempre
 Se você quiser entrar em contato comigo para discutir um projeto, colaboração ou apenas para trocar ideias, você pode me encontrar nos seguintes canais:
 
 - Email: beto.secanechia@hotmail.com
-- LinkedIn: [Seu perfil do LinkedIn](https://www.linkedin.com/in/seuperfil)
+- LinkedIn: https://www.linkedin.com/in/secanechia/
 
 Vamos conectar e criar coisas incríveis juntos!
